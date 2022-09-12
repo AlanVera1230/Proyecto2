@@ -1,0 +1,16 @@
+.banner {
+    position: relative; 
+    background-image:
+    url('../recursos/banner.webp');
+    top: 50px;
+    width: 100%;
+    height: 350px;
+    background-size: cover;
+    background-position: center;
+}
+
+.text-banner {
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
